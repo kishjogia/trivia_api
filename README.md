@@ -1,1 +1,3 @@
-"# trivia_quiz_api" 
+# trivia_quiz_api
+
+Using openTDB
